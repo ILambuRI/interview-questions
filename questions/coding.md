@@ -1,4 +1,6 @@
-Algorithms
-  Factorial (recursive)
-  Factorial (loop)
-  FizzBuzz
+# Coding
+
+* Algorithms
+  * Factorial (recursive)
+  * Factorial (loop)
+  * FizzBuzz

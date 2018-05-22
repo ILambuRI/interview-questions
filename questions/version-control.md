@@ -1,4 +1,6 @@
-  Git
-    What is Git flow
-  Mercurial
-  Subversion
+# Version Control
+
+* Git
+  * What is Git flow?
+* Mercurial
+* Subversion

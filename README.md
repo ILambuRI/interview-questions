@@ -10,10 +10,9 @@ This repo contains a number of interview questions that can I have encountered o
 * [Databases](questions/databases.md)
 * [Programming](questions/programming.md)
 * [Coding](questions/coding.md)
-* [JavaScript](questions/javascript.md)
-* [HTML](questions/html.md)
-* [CSS](questions/css.md)
+* [Frontend](questions/frontend.md)
 * [DevOps](questions/devops.md)
 * [Version Control](questions/version-control.md)
-* [About Me](questions/about.md)
+* [SalesForce](questions/salesforce.md)
 * [Questions To Ask](questions/to-ask.md)
+<!-- * [About Me](questions/about.md) -->
